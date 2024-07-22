@@ -24,7 +24,7 @@
 ## NEWS: FSDA release  2024a is out. (April 2024)
 
 
-#### GRAPHICS 
+#### GRAPHICS & some update
   
 Function `fanplotFS.m` now accepts in input not only the output of `FSReda` and [`FSRaddt`](http://rosa.unipr.it/FSDA/FSRaddt.html)
 but also the output of `FSReda`, `Sregeda` and `MMregeda`. `fanplotFS` can be used also to monitor the t-statistics 
